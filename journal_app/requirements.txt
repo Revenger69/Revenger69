@@ -1,0 +1,7 @@
+# Core application
+PySide6>=6.6
+SQLAlchemy>=2.0
+reportlab>=4.0   # optional, only needed for PDF export
+
+# Testing (dev-only)
+pytest>=7.4
